@@ -1,1 +1,11 @@
-# qwerqwer
+[02:19:22] Alchemy: Success [Phoenix Lamellar +3]
+[02:19:30] Alchemy: Possibly destroyed [Phoenix Tasset]
+[02:19:37] Alchemy: Success [Phoenix Lamellar +4]
+[02:19:45] Alchemy: Possibly destroyed [Draco Hat]
+[02:19:52] Alchemy: Possibly destroyed [Draco Talisman]
+[02:20:12] Alchemy: Success [Phoenix Lamellar +5]
+[02:20:20] Alchemy: Possibly destroyed [Phoenix Lamellar]
+[02:21:12] Alchemy: Possibly destroyed [Phoenix Glove]
+[02:21:28] Alchemy: Success [Draco Shoes +2]
+[02:21:39] Alchemy: Possibly destroyed [Draco Shoes]
+[02:23:09] Alchemy: Possibly destroyed [Divine Sword]
